@@ -143,7 +143,7 @@ textarea.form-control{
     }
 }
 .input-group{
-  background: $white-color;
+//   background: $white-color;
   .input-group-append .input-group-text{
     background: transparent;
     border: 1px solid #DDDDDD;
@@ -169,7 +169,7 @@ textarea.form-control{
 
     .input-group-prepend .input-group-text{
       border-right: transparent !important;
-      background: $white-color !important;
+    //   background: $white-color !important;
         border: 1px solid $white-color !important;
       @include transition(300ms, linear);
     }
